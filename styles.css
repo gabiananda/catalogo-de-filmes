@@ -1,5 +1,9 @@
 body {
-
     background: pink;
     color: black; 
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
 }
