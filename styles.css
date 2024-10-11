@@ -1,10 +1,10 @@
 body {
-    background: beige;
-    color: black; 
+    background: darkred;
+    color: whitesmoke; 
 } 
 
 header{
     text-align: center;
     font-size: 50px;
-    border: solid 2px black
+    border-bottom: solid 3px whitesmoke;
 }
