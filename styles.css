@@ -1,9 +1,10 @@
 body {
-    background: pink;
+    background: beige;
     color: black; 
 } 
 
 header{
     text-align: center;
     font-size: 50px;
+    border: solid 2px black
 }
