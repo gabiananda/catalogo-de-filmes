@@ -13,7 +13,7 @@ header{
     
 }
 
-section {
+.início{
     display: flex;
     background-color: rgb(23, 24, 46);
     padding-bottom: 80px;
@@ -30,4 +30,20 @@ margin-right: 5%;
 img{
     width: 150px;
     height: 200px;
+    opacity: 0.5;
+}
+.filme{
+display: flex;
+overflow-x: auto;
+gap:20px ;
+}
+ 
+h2{
+text-align: center;
+
+
+}
+img :hover{
+opacity: 1;
+
 }
