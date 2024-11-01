@@ -36,6 +36,7 @@ img{
 display: flex;
 overflow-x: auto;
 gap:20px ;
+justify-content: center;
 }
  
 h2{
